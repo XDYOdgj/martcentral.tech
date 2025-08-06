@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://martcentral.tech/sitemap.xml
